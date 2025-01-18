@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hard-soul
-- 👀 I’m interested in learinig all automation related topics
-- 🌱 I’m currently learning in all visulisation automated pipelines
-- 💞️ I’m looking to collaborate on microsoft power apps
+- 👀 I’m interested in exploring more and more on all automation related topics, data analytics pipelines, business analytics stratergies, and data science topics.
+- 🌱 I’m currently stepping into getting to know more on Cloud platforms, data late, snapshots.
+- 💞️ 
 - 📫 How to reach me @ hard.soul8363@gmail.com
 - 😄 Pronouns: Mr
 - ⚡ Fun fact: Common
